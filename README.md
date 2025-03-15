@@ -1,4 +1,4 @@
-With this python script you can connect to the binance API and correctly manage a local orderbook
+With this Python script you can connect to the Binance API and correctly manage a local orderbook
 
-Please install this python package before running the script:
-  - https://github.com/binance/binance-connector-python
+Please install this Python package before running the script:
+https://github.com/binance/binance-connector-python
